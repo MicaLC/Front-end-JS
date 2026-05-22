@@ -13,14 +13,18 @@ header, nav, main{
     margin-right: 30px;
 }
 
-nav{    
-    ul{ list-style: none;
-        font-weight: bold;
-        font-size: larger;
-        }
-    a{  text-decoration: none;
-        color:black}
-}
+nav {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      gap: 20px;
+      padding: 20px;
+      font-weight: bold;
+    }
+
+
+a{  text-decoration: none;
+    color: black;}
 
 main{
     padding-left: 50px;
@@ -29,6 +33,7 @@ main{
 
 footer {
     background-color: rgb(34, 62, 80) !important;
+    padding: 15px;
     p {background-color: rgb(34, 62, 80);}
 }
 
@@ -53,4 +58,13 @@ p{
 
 .comienzo{
     margin-top: 40px !important;
+}
+
+.construccion{
+    background-image: url('./imagenes/construccion.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+    padding: 325px;
 }
