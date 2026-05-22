@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="185.27557"
+   height="262.09833"
+   id="svg5563"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="thargron.svg">
+  <defs
+     id="defs5565" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1410405"
+     inkscape:cx="5.5945901"
+     inkscape:cy="198.87476"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1056"
+     inkscape:window-height="753"
+     inkscape:window-x="1725"
+     inkscape:window-y="125"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5568">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-247.99038,-178.83836)">
+    <path
+       style="fill:none;stroke:#2a2a29;stroke-width:4.70900011;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       id="path25"
+       d="m 340.18534,181.19286 3.50557,257.38932 m 87.22054,-136.9022 c -8.26335,-43.34209 -46.16043,-76.47687 -90.28346,-76.47687 -44.12268,0 -82.01976,33.13478 -90.28311,76.47687 M 430.91145,192.48411 c -8.26335,43.34209 -46.16043,74.69681 -90.28346,74.69681 -44.12268,0 -82.01976,-31.35472 -90.28311,-74.69681"
+       class="fil0 str0"
+       sodipodi:nodetypes="cccsccsc" />
+  </g>
+</svg>

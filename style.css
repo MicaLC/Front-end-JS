@@ -24,8 +24,8 @@ a{  text-decoration: none;
     color: black;}
 
 main{
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 footer {
@@ -63,5 +63,12 @@ p{
     background-position: center center;
     background-size: cover;
     background-attachment: scroll;
-    padding: 325px;
+    padding: 302px;
+}
+
+.imagen{
+    width: 130px;
+    height: 200px;
+    padding: 10px;
+    padding-bottom: 10px;
 }
